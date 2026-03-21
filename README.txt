@@ -1,20 +1,21 @@
-Student Management System - COMP2154 Starter Files
+# Student Management System
 
-Files included:
-- Student.java
-- Course.java
-- Instructor.java
-- Enrollment.java
-- Grade.java
-- StudentController.java
+This project is developed for COMP2154 – System Development Project.
 
-How to use:
-1. Open your Spring Boot project in VS Code or IntelliJ.
-2. Go to src/main/java/com/comp2154/student_system
-3. Copy these files into that folder.
-4. Save all files.
-5. Run the Spring Boot application.
-6. Open: http://localhost:8080/students
+## Project Description
+The Student Management System is a web-based application designed to manage student records, courses, enrollments, and grades.
 
-Expected result:
-Student Management System - Student module is working
+## Technologies
+- Java
+- Spring Boot
+- MySQL
+- HTML, CSS, JavaScript
+
+## Current Progress
+- Spring Boot project initialized
+- Student, Course, Instructor, Enrollment, and Grade classes created
+- Basic StudentController added
+- ER diagram prepared
+
+## Team Member
+- Ahmad Ashoor – 101136881
