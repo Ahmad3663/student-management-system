@@ -1,0 +1,31 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="720" rx="36" fill="#E7ECFF"/>
+  <circle cx="548" cy="132" r="22" fill="#FFC857"/>
+  <circle cx="120" cy="168" r="14" fill="#FF8FA3"/>
+  <circle cx="596" cy="226" r="11" fill="#5DD39E"/>
+  <rect x="128" y="500" width="458" height="10" rx="5" fill="#2A3C67" opacity="0.18"/>
+  <rect x="208" y="390" width="86" height="80" rx="12" fill="#F4905B"/>
+  <rect x="248" y="354" width="150" height="28" rx="10" fill="#FFD166"/>
+  <rect x="230" y="326" width="178" height="28" rx="10" fill="#7BD389"/>
+  <rect x="246" y="298" width="146" height="28" rx="10" fill="#4D96FF"/>
+  <path d="M355 230c44 0 80 34 80 76v102h-46l-16-82-50 48-24-56-6 90h-45V306c0-42 28-76 107-76Z" fill="#3C5FA6"/>
+  <circle cx="350" cy="192" r="42" fill="#F5B28B"/>
+  <path d="M392 185c0 12-5 24-13 32-10-11-28-18-44-18-16 0-28 4-37 11-4-5-8-12-9-20-4-28 16-53 51-53 32 0 52 18 52 48Z" fill="#22345E"/>
+  <path d="M430 407l70 52 25-18-70-55-25 21Z" fill="#5579C6"/>
+  <path d="M474 448l18 28 32-22-16-29-34 23Z" fill="#22345E"/>
+  <path d="M300 409l-56 56-30-13 56-60 30 17Z" fill="#5579C6"/>
+  <path d="M232 450l-20 26-29-16 23-28 26 18Z" fill="#22345E"/>
+  <rect x="448" y="148" width="96" height="66" rx="10" transform="rotate(12 448 148)" fill="white" stroke="#8FA3D9"/>
+  <circle cx="483" cy="178" r="10" fill="#7DA0FF"/>
+  <rect x="498" y="171" width="28" height="8" rx="4" fill="#B8C7F4"/>
+  <rect x="498" y="185" width="16" height="8" rx="4" fill="#D3DDFB"/>
+  <path d="M552 264l22-32 44 30-22 32-44-30Z" fill="#6C8DE9"/>
+  <path d="M574 240l18 24" stroke="#3152A5" stroke-width="5" stroke-linecap="round"/>
+  <path d="M121 324l78-20" stroke="#FFD166" stroke-width="7" stroke-linecap="round" stroke-dasharray="10 12"/>
+  <path d="M516 345l58 14" stroke="#FF8FA3" stroke-width="7" stroke-linecap="round" stroke-dasharray="10 12"/>
+  <path d="M132 232l28 20" stroke="#5DD39E" stroke-width="7" stroke-linecap="round" stroke-dasharray="10 12"/>
+  <path d="M430 120l-18 26" stroke="#6C8DE9" stroke-width="7" stroke-linecap="round" stroke-dasharray="10 12"/>
+  <path d="M455 116l18 26" stroke="#6C8DE9" stroke-width="7" stroke-linecap="round" stroke-dasharray="10 12"/>
+  <path d="M439 138h-35" stroke="#6C8DE9" stroke-width="7" stroke-linecap="round" stroke-dasharray="10 12"/>
+  <path d="M331 82l18 44 48 6-36 30 10 46-40-24-40 24 10-46-36-30 48-6 18-44Z" fill="#FFC857"/>
+</svg>
